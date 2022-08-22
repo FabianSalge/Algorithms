@@ -1,0 +1,7 @@
+
+For Unsorted Arrays: Linear Search
+Sorted Array:
+    - Simplest and fastest: Binary Search
+    - Without division operator: JumpSearch or FibbonaciSearch
+    - If you know item is closer to start: Exponential Search
+    - Uniformly distributed: Interpolation Search 
